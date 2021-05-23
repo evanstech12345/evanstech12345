@@ -2,15 +2,23 @@
 
 <!--
 **evanstech12345/evanstech12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------\
+Languages I know             \   
+ - python   🐍                 \
+ - javascript: learning         \
+ - swift: barely                 \
+ - HTML/CSS                       \
+-----------------------------------\
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------   
+                                            /
+What I am working on                       /
+ - python:Face detection to - 😷          /
+see who is wearing a mask and who isnt  /
+- javascript: ❌                       /
+ - swift: calculator app➗            /
+ - HTML/CSS: workout website   🧑‍💻    /    
+-----------------------------------/
+
+
