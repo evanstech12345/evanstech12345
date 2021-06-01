@@ -8,11 +8,10 @@ Languages I know             \
 ---------------------------------------------   
                                             /
 What I am working on                       /
- - python:Face detection to - 😷          /
-see who is wearing a mask and who isnt  /
-- javascript: chrome extenstion        /
- - swift: calculator app➗            /
- - HTML/CSS: workout website   🧑‍💻    /    
+ - python:password storer with mysql     /
+- javascript: reaction timer           /
+ - swift: TBD                         /
+ - HTML/CSS: TBD               🧑‍💻    /    
 -----------------------------------/
 
 <!--
