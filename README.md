@@ -8,8 +8,8 @@ Languages I know             \
 ---------------------------------------------   
                                             /
 What I am working on                       /
- - python:password storer with mysql     /
-- javascript: reaction timer           /
+ - python:password graph with matplotli  /
+- javascript: tip calculator            /
  - swift: TBD                         /
  - HTML/CSS: TBD               🧑‍💻    /    
 -----------------------------------/
