@@ -8,7 +8,7 @@ Languages I know             \
 ---------------------------------------------   
                                             /
 What I am working on                       /
- - python:password graph with matplotli  /
+ - python:password graph with matplotlib  /
 - javascript: tip calculator            /
  - swift: TBD                         /
  - HTML/CSS: TBD               🧑‍💻    /    
