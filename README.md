@@ -8,8 +8,8 @@ Languages I know             \
 ---------------------------------------------   
                                             /
 What I am working on                       /
- - python:password graph with matplotlib  /
-- javascript: tip calculator            /
+ - python:making a a db to store secrete files/
+- javascript: Weather app.             /
  - swift: TBD                         /
  - HTML/CSS: TBD               🧑‍💻    /    
 -----------------------------------/
