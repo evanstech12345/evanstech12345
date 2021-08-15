@@ -1,18 +1,13 @@
 ##----------------------------\
-Languages I know             \   
- - python   🐍                 \
- - javascript: learning         \
- - swift: barely                 \
- - HTML/CSS                       \
+Languages I know               
+ - python   🐍                 
+ - javascript               
+ - HTML/CSS                       
 -----------------------------------\
----------------------------------------------   
-                                            /
-What I am working on                       /
- - python:making a a db to store secrete files/
-- javascript: Weather app.             /
- - swift: TBD                         /
- - HTML/CSS: TBD               🧑‍💻    /    
------------------------------------/
+---------------------------------------------\  
+What do I do                       
+-backend development and frontend development   
+-----------------------------------\
 
 <!--
 **evanstech12345/evanstech12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
