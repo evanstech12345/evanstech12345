@@ -2,7 +2,9 @@
 Languages I know               
  - python   🐍                 
  - javascript               
- - HTML/CSS                       
+ - HTML/CSS              
+ - React
+ - Node/Express         
 -----------------------------------\
 ---------------------------------------------\  
 What do I do                       
