@@ -1,5 +1,5 @@
 ##----------------------------\
-Languages I know               
+Languages/Frameworks I know               
  - python   🐍                 
  - javascript               
  - HTML/CSS              
